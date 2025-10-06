@@ -10,6 +10,7 @@ A comprehensive Maven archetype project for Java 21 development with modern tool
 
 ```bash
 $ ./bin/build-and-install-archetype.sh --clean --verbose
+$ source ~/.bashrc
 ```
 
 An alias `mvn-java21-generate` is created for easy project generation.
